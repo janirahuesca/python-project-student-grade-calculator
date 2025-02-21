@@ -12,4 +12,4 @@ The **Student Grade Calculator** is a Python-based application that allows teach
 
 ## Author
 
-- **Janira Huesca**: [Janira Huesca LindedIn profile](https://www.linkedin.com/in/janirahuesca/)
+- **Janira Huesca**: [Janira Huesca LinkedIn profile](https://www.linkedin.com/in/janirahuesca/)
