@@ -1,10 +1,10 @@
 import sys
 import os
 
-# Add "app" folder to Python path
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../app')))
+# Añadir el directorio raíz del proyecto al PYTHONPATH
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '../')))
 
-from grade_calculator import calculate_final_grade, get_classification
+from utils.grade_calculator import calculate_final_grade, get_classification
 
 def test_calculate_final_grade():
     assert calculate_final_grade([7, 8, 9]) == 8.0

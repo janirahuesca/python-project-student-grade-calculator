@@ -3,4 +3,3 @@ class Student:
         self.name = name.upper()
         self.grades = grades
     
-    
